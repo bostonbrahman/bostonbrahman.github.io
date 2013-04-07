@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://bostonbrahman.github.com/atom.xml" rel="self"/>
-  <link href="http://bostonbrahman.github.com/"/>
-  <updated>2013-04-07T11:21:20-04:00</updated>
-  <id>http://bostonbrahman.github.com/</id>
+  <title><![CDATA[Boston Brahman]]></title>
+  <link href="http://bostonbrahman.github.io/atom.xml" rel="self"/>
+  <link href="http://bostonbrahman.github.io/"/>
+  <updated>2013-04-07T13:09:59-04:00</updated>
+  <id>http://bostonbrahman.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     

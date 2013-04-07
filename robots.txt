@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bostonbrahman.github.com/sitemap.xml 
+Sitemap: http://bostonbrahman.github.io/sitemap.xml 
